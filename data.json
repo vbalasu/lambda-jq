@@ -1,0 +1,1 @@
+{"path": "s3://trifacta-partnerdemo-trifactabucket-kkcpnw234feu/trifacta/uploads/1/ce9be0f1-89db-4b2b-a342-4cd393cf9e94/swagger.json", "filter": ".servers[]", "flags": ["-c"], "source": "trifacta", "jobId": "$jobId", "jobStatus": "$jobStatus"}
